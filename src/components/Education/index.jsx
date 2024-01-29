@@ -64,7 +64,7 @@ const Desc = styled.div`
 `;
 
 const TimelineSection = styled.div`
-    margin-right:150px;
+    
     width: 100%;
     max-width: 1000px;
     margin-top: 10px;

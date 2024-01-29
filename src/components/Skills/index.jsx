@@ -114,8 +114,8 @@ const SkillItem = styled.div`
 `
 
 const SkillImage = styled.img`
-  width: 44px;
-  height: 44px;
+  width: 24px;
+  height: 24px;
 `
 
 
