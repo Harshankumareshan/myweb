@@ -166,28 +166,7 @@ export const Bio = {
       ],
        
     },
-    {
-      id: 0,
-      img: "data:image/png;base64,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",
-      role: "Fullstack development Intern",
-      company: "Guvi Geeks Network Pvt.Ltd. ",
-      date: "March 2023 - Present",
-      desc: "Master MERN Fullstack Development through hands-on learning, progressing from fundamentals to real-world projects. Gain proficiency in MongoDB, Express.js, React.js, and Node.js, ensuring a solid foundation for a successful career in web development.",
-      skills: [
-        "ReactJS",
-        "Redux",
-        "NodeJs",
-        "Express",
-        "Material UI",
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "MongoDb",
-        "Mysql",
-        "Aws",
-        "SystemDesign",
-      ],
-    },
+ 
     
     
     
@@ -197,6 +176,15 @@ export const Bio = {
   export const education = [
     {
       id: 0,
+      img: "data:image/png;base64,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",
+      school: "Guvi Geeks Network Pvt.Ltd.",
+      date: "March 2023 - Present",
+      grade: "87.1%",
+      desc: "Master MERN Fullstack Development through hands-on learning, progressing from fundamentals to real-world projects. Gain proficiency in MongoDB, Express.js, React.js, and Node.js, ensuring a solid foundation for a successful career in web development .",
+      degree: "MERN Fullstack Development",
+    },
+    {
+      id: 1,
       img: "https://gyaanarth.com/wp-content/uploads/2021/09/HICAS-Logo-1024x1024.jpg",
       school: "Hindustan College of Arts and Science, Coimbatore",
       date: "Augest 2018 - June 2021",
@@ -205,7 +193,7 @@ export const Bio = {
       degree: "Bachelor of Science in Computer Science",
     },
     {
-      id: 1,
+      id: 2,
       img: "https://1.bp.blogspot.com/-fS_R-6ioGNU/W7lpj68UEYI/AAAAAAABBlc/P88nXAAPA90gVrMtThHOQxWBKGhopDF_gCLcBGAs/s1600/TKS%2BLogo.png",
       school: "Theni Kammavar Sangam Matric Higher Secondary School, Theni",
       date: "June 2017 - April 2018",
@@ -214,7 +202,7 @@ export const Bio = {
       degree: "HSC(XII),Computer Science",
     },
     {
-      id: 2,
+      id: 3,
       img: "https://1.bp.blogspot.com/-fS_R-6ioGNU/W7lpj68UEYI/AAAAAAABBlc/P88nXAAPA90gVrMtThHOQxWBKGhopDF_gCLcBGAs/s1600/TKS%2BLogo.png",
       school: "Theni Kammavar Sangam Matric Higher Secondary School, Theni",
       date: "June 2015 - March 2016",
