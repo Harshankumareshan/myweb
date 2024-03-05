@@ -8,7 +8,7 @@ export const Bio = {
       "I am a self-motivated and versatile individual, perpetually seeking opportunities for growth. My commitment to excellence is evident in my consistent delivery of high-quality results. With an optimistic outlook and a mindset focused on continuous development, I am prepared to contribute meaningfully and attain significant accomplishments.",
     github: "https://github.com/Harshankumareshan",
     resume:
-      "https://drive.google.com/file/d/1SpNQTUGRRmcCdzd5r0Fh5DbIXYI1Mpzg/view?usp=sharing",
+      "https://drive.google.com/file/d/1U4jPwwu2RERLI3YGMiaevCC1HwMkDNt0/view?usp=sharing",
    
   };
   
